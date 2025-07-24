@@ -1,6 +1,6 @@
 # 🫀 Heart Failure Prediction (ANN)
 
-Proyek ini adalah aplikasi prediksi gagal jantung berbasis **Streamlit**, menggunakan model **Artificial Neural Network (ANN)** yang dibuat untuk UTS mata kuliah **Machine Learning 2**.
+Proyek ini adalah aplikasi prediksi gagal jantung berbasis **Streamlit**, menggunakan model **Artificial Neural Network (ANN).** 
 
 📌 Fitur Utama:
 - Dataset klinis sebanyak 299 data pasien
